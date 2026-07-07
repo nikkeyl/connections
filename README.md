@@ -22,7 +22,3 @@
 ## 🛠️ Stack
 
 A single HTML file: Tailwind CSS (via CDN) + vanilla JavaScript. Nothing to build or install.
-
-## 🚀 Getting started
-
-Just open [`index.html`](index.html) in your browser — or visit the [live demo](https://nikkeyl.github.io/connections).
