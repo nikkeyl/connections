@@ -25,4 +25,4 @@ A single HTML file: Tailwind CSS (via CDN) + vanilla JavaScript. Nothing to buil
 
 ## 🚀 Getting started
 
-Just open [`connections.html`](connections.html) in your browser — or visit the [live demo](https://nikkeyl.github.io/connections).
+Just open [`index.html`](index.html) in your browser — or visit the [live demo](https://nikkeyl.github.io/connections).
